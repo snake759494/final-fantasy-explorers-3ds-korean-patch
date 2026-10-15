@@ -1,0 +1,11 @@
+{
+ "version": "v1.0",
+ "asset": "FFExplorers_3DS_KO_v1.0.xdelta",
+ "asset_size": 14909666,
+ "asset_sha256": "ce093939d0e2773a81ed9c182e21d716f2028d5e5c4fcba7e67fa2e59b035dec",
+ "source_3ds_size": 1073741824,
+ "source_3ds_md5": "8635aea2d5034d2975df5bbfc7e3c475",
+ "source_3ds_sha256": "d5058ff6f17669f4f9a9a5322ac058e236eb57b20d40498cf1ddeee4a350abe3",
+ "result_3ds_size": 609488896,
+ "result_3ds_sha256": "148ac2ccd197de8010b44d819bef9e8361861627450d73bc6d75464bd5894b32"
+}
